@@ -1,0 +1,15 @@
+# Environment dan kredensial
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python
+_pycache_/
+*.pyc
+
+# Google Colab dan Jupyter
+.ipynb_checkpoints/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
